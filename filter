@@ -1,0 +1,9 @@
+# Rules are made using regex patterns
+
+# Protect all methods in all classes
+# Not recommended for real world applications.
+#.*
+
+#Protect custom smail paste code line by line
+Lcom/lenovo/anyshare/main/MainActivity;
+Lcom/android/mrlee/.*;
