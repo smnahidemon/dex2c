@@ -1,0 +1,2 @@
+pkg install openjdk-17 python libxml2 libxslt
+pip install networkx pydot future pyasn1 asn1crypto lxml
